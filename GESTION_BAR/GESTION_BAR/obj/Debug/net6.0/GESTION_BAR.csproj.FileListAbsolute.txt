@@ -1,0 +1,22 @@
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\bin\Debug\net6.0\GESTION_BAR.exe
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\bin\Debug\net6.0\GESTION_BAR.deps.json
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\bin\Debug\net6.0\GESTION_BAR.runtimeconfig.json
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\bin\Debug\net6.0\GESTION_BAR.dll
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\bin\Debug\net6.0\GESTION_BAR.pdb
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.AssemblyInfo.cs
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.dll
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\refint\GESTION_BAR.dll
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.pdb
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.genruntimeconfig.cache
+\\Mac\Home\Documents\COURS_TI\UAA14 POO\SOLUTIONS ACTIVITES POO\GESTION_BAR\obj\Debug\net6.0\ref\GESTION_BAR.dll
+C:\Users\Valpha\Downloads\GESTION_BAR\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valpha\Downloads\GESTION_BAR\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.AssemblyInfoInputs.cache
+C:\Users\Valpha\Downloads\GESTION_BAR\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.AssemblyInfo.cs
+C:\Users\Valpha\Downloads\GESTION_BAR\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.csproj.CoreCompileInputs.cache
+C:\Users\Valpha\Downloads\GESTION_BAR\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.dll
+C:\Users\Valpha\Downloads\GESTION_BAR\GESTION_BAR\obj\Debug\net6.0\refint\GESTION_BAR.dll
+C:\Users\Valpha\Downloads\GESTION_BAR\GESTION_BAR\obj\Debug\net6.0\GESTION_BAR.pdb
